@@ -1,7 +1,8 @@
-function greeter(person)
+function greeter(person:string)
 {
     return "Hello " + person;
 }
-let user = "Sandeep";
+let user = ['sandeep','1','2'];
 
-document.body.innerHTML = greeter(user);
+//document.body.innerHTML = greeter(user[0]);
+console.log(greeter(user[0]));
