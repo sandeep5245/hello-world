@@ -1,0 +1,7 @@
+{
+    "firstname":"sandeep",
+    "lastname":"padarthy",
+    "middlename":"M R S",
+    "gender":"Male",
+    "Experience History":[{"name":"Fiserv", "loc":"blore"}, {"name":"Atlas", "loc":"blore"}]
+}
